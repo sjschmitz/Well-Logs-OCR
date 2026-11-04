@@ -1,0 +1,37 @@
+HPC OCR job - monitoring commands (run these in your SSH session on marvin)
+===========================================================================
+
+Is the job still running?  (R = running, PD = waiting)
+    squeue -u sschmitz
+
+Elapsed time vs. time limit
+    squeue -u sschmitz -o "%.10i %.12M %.12l %.8T"
+
+Watch progress live (Ctrl+C stops watching, not the job)
+    tail -f /mnt/ceph/sschmitz/code/well_logs_all_run.log
+
+If that log does not exist, find the newest log
+    ls -lt /mnt/ceph/sschmitz/code/*.log | head -3
+
+Which stage is it in?
+    grep "=== STAGE" /mnt/ceph/sschmitz/code/well_logs_all_run.log | tail -1
+
+Latest progress line only
+    tail -1 /mnt/ceph/sschmitz/code/well_logs_all_run.log
+
+Retries / errors so far
+    grep -c "\[RETRY" /mnt/ceph/sschmitz/code/well_logs_all_run.log
+    grep -E "ERROR|FAILED|AUTH FAILURE" /mnt/ceph/sschmitz/code/well_logs_all_run.log | tail -5
+
+The job's own output (settings at start, crash messages)
+    tail -20 /mnt/ceph/sschmitz/code/slurm_ocr_5281863.out
+
+Did it finish?  (look for a DONE: line)
+    grep "^DONE" /mnt/ceph/sschmitz/code/well_logs_all_run.log | tail -1
+
+Cancel the job
+    scancel 5281863
+
+Expected: progress lines start near [NORM 125700/203284] (earlier pages are
+skipped). If they start with [OCR ...] or [ZOOM ...], WELLLOG_ZOOM=off was not
+picked up.

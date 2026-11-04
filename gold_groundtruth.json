@@ -1,0 +1,1547 @@
+{
+ "295770_page_1.jpg": {
+  "scalars": {
+   "well_tag_no": [
+    "D 0027788",
+    "D 0007788"
+   ],
+   "owner.name": [
+    "Johnston Construction"
+   ],
+   "location.twp": [
+    "4"
+   ],
+   "location.twp_dir": [
+    "N",
+    "North"
+   ],
+   "location.rge": [
+    "1"
+   ],
+   "location.rge_dir": [
+    "W",
+    "West"
+   ],
+   "location.sec": [
+    "14"
+   ],
+   "location.county": [
+    "Ada"
+   ],
+   "location.quarter_quarter": [
+    "SW 1/4 NW 1/4"
+   ],
+   "sealing.material": [
+    "Bentonite Slurry"
+   ],
+   "sealing.shoe_depths": [
+    "77 ft",
+    "77"
+   ],
+   "well_tests.0.type": [
+    "Air"
+   ],
+   "well_tests.0.yield_gpm": [
+    "150 GPM",
+    "150"
+   ],
+   "well_tests.0.pumping_level_ft": [
+    "78 ft",
+    "78"
+   ],
+   "water_temp": [
+    "58",
+    "58\u00b0"
+   ],
+   "depth_first_water_encountered_ft": [
+    "5 ft",
+    "5"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     20
+    ],
+    [
+     20,
+     34
+    ],
+    [
+     34,
+     40
+    ],
+    [
+     40,
+     43
+    ],
+    [
+     43,
+     55
+    ],
+    [
+     55,
+     76
+    ],
+    [
+     76,
+     77
+    ],
+    [
+     77,
+     84
+    ]
+   ],
+   "water": [
+    "N",
+    "Y",
+    "Y",
+    "N",
+    "Y",
+    "N",
+    "Y",
+    "N",
+    "Y"
+   ]
+  }
+ },
+ "299952_page_1.jpg": {
+  "scalars": {
+   "drilling_permit_no": [
+    "63-94-W-0625-001"
+   ],
+   "owner.name": [
+    "AMOCO"
+   ],
+   "owner.zip": [
+    "83706"
+   ],
+   "location.twp": [
+    "3"
+   ],
+   "location.rge": [
+    "2"
+   ],
+   "location.rge_dir": [
+    "E",
+    "East"
+   ],
+   "location.sec": [
+    "7"
+   ],
+   "location.county": [
+    "Ada"
+   ],
+   "location.quarter_quarter": [
+    "NE 1/4 SE 1/4"
+   ],
+   "use.0": [
+    "Monitor"
+   ],
+   "type_of_work.0": [
+    "New Well"
+   ],
+   "casing_liner.0.diameter": [
+    "8\"",
+    "8"
+   ],
+   "casing_liner.0.from_ft": [
+    "0"
+   ],
+   "casing_liner.0.to_ft": [
+    "50"
+   ],
+   "casing_liner.0.material": [
+    "PVC"
+   ],
+   "sealing.drive_shoe_used": [
+    null
+   ],
+   "static_water_level_ft": [
+    "30"
+   ],
+   "completed_depth_ft": [
+    "50'",
+    "50"
+   ],
+   "date_started": [
+    "7-19-94"
+   ],
+   "date_completed": [
+    "7-22-94"
+   ],
+   "driller.company_name": [
+    "Hiddleston & Sons Inc.",
+    "Hiddleston & Sons Inc"
+   ],
+   "driller.firm_no": [
+    "35"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     50
+    ]
+   ],
+   "water": [
+    null,
+    null,
+    "Y"
+   ]
+  }
+ },
+ "304920_page_1.jpg": {
+  "scalars": {
+   "well_id_no": [
+    "MW-10"
+   ],
+   "drilling_permit_no": [
+    "63-90-2-018-009"
+   ],
+   "owner.name": [
+    "CHEVRON PIPELINE CO.",
+    "CHEVRON PIPELINE CO"
+   ],
+   "location.twp": [
+    "3"
+   ],
+   "location.rge": [
+    "2"
+   ],
+   "location.rge_dir": [
+    "E",
+    "East"
+   ],
+   "location.sec": [
+    "8"
+   ],
+   "location.county": [
+    "ADA",
+    "Ada"
+   ],
+   "location.quarter_quarter": [
+    "SW 1/4 SW 1/4"
+   ],
+   "use.0": [
+    "MONITOR",
+    "Monitor"
+   ],
+   "casing_liner.0.diameter": [
+    "4"
+   ],
+   "casing_liner.0.to_ft": [
+    "18"
+   ],
+   "casing_liner.0.gauge": [
+    "SCH 40"
+   ],
+   "casing_liner.0.material": [
+    "PVC"
+   ],
+   "casing_liner.0.welded_or_threaded": [
+    "Threaded"
+   ],
+   "filter_pack.from_ft": [
+    "15"
+   ],
+   "filter_pack.to_ft": [
+    "37"
+   ],
+   "lithologic_log.0.remarks": [
+    "GRAVEL",
+    "Gravel"
+   ],
+   "date_started": [
+    "4-26-91"
+   ],
+   "date_completed": [
+    "4-26-91"
+   ],
+   "driller.firm_no": [
+    "42"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     40
+    ]
+   ],
+   "water": [
+    "N"
+   ]
+  }
+ },
+ "385403_page_1.jpg": {
+  "scalars": {
+   "well_id_no": [
+    "814718"
+   ],
+   "well_tag_no": [
+    "D 0031395",
+    "D 00 31395"
+   ],
+   "owner.name": [
+    "Sam Hicks"
+   ],
+   "owner.city": [
+    "Marsing"
+   ],
+   "owner.zip": [
+    "83639",
+    "83659"
+   ],
+   "owner.address": [
+    "7459 Old Bruneau Highway"
+   ],
+   "location.twp": [
+    "2"
+   ],
+   "location.rge": [
+    "4"
+   ],
+   "location.rge_dir": [
+    "W",
+    "West"
+   ],
+   "location.sec": [
+    "14"
+   ],
+   "location.county": [
+    "Owyhee"
+   ],
+   "location.quarter_quarter": [
+    "SE 1/4 SE 1/4"
+   ],
+   "location.gov_lot": [
+    null
+   ],
+   "sealing.material": [
+    "Bentonite"
+   ],
+   "sealing.from_ft": [
+    "4"
+   ],
+   "sealing.to_ft": [
+    "25"
+   ],
+   "sealing.how_tested": [
+    "bail"
+   ],
+   "sealing.shoe_depths": [
+    "88"
+   ],
+   "casing_liner.0.diameter": [
+    "6 5/8"
+   ],
+   "casing_liner.0.from_ft": [
+    "+2"
+   ],
+   "casing_liner.0.to_ft": [
+    "88"
+   ],
+   "casing_liner.0.gauge": [
+    ".250"
+   ],
+   "casing_liner.0.material": [
+    "Steel",
+    "steel"
+   ],
+   "casing_liner.0.casing_or_liner": [
+    "Casing"
+   ],
+   "casing_liner.0.welded_or_threaded": [
+    "Welded"
+   ],
+   "static_water_level_ft": [
+    "35"
+   ],
+   "depth_flow_encountered_ft": [
+    "201"
+   ],
+   "well_tests.0.type": [
+    "Bailer"
+   ],
+   "well_tests.0.yield_gpm": [
+    "20"
+   ],
+   "depth_first_water_encountered_ft": [
+    "120"
+   ],
+   "completed_depth_ft": [
+    "193 ft",
+    "193"
+   ],
+   "date_started": [
+    "5/7/04"
+   ],
+   "date_completed": [
+    "5/16/04"
+   ],
+   "driller.company_name": [
+    "Robinson Well Drilling"
+   ],
+   "driller.principal_driller": [
+    "Ralph Robinson"
+   ],
+   "driller.firm_no": [
+    "490"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     10,
+     34
+    ],
+    [
+     34,
+     42
+    ],
+    [
+     42,
+     62
+    ],
+    [
+     62,
+     69
+    ],
+    [
+     69,
+     85
+    ],
+    [
+     85,
+     97
+    ],
+    [
+     97,
+     120
+    ],
+    [
+     120,
+     175
+    ],
+    [
+     175,
+     201
+    ],
+    [
+     201,
+     227
+    ]
+   ],
+   "water": [
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "Y",
+    "N",
+    "N",
+    "Y",
+    "N",
+    "Y",
+    "Y"
+   ]
+  }
+ },
+ "397949_page_1.jpg": {
+  "scalars": {
+   "well_tag_no": [
+    "D 0038571"
+   ],
+   "owner.name": [
+    "Tuttle Construction"
+   ],
+   "owner.city": [
+    "Caldwell"
+   ],
+   "owner.zip": [
+    "83605"
+   ],
+   "location.twp": [
+    "5"
+   ],
+   "location.rge": [
+    "6"
+   ],
+   "location.rge_dir": [
+    "W",
+    "West"
+   ],
+   "location.sec": [
+    "14"
+   ],
+   "location.county": [
+    "Canyon"
+   ],
+   "location.quarter_quarter": [
+    "SE 1/4 NW 1/4"
+   ],
+   "location.well_site_address": [
+    "31301 Boulder Rd.",
+    "31301 Boulder Rd"
+   ],
+   "location.city": [
+    "Parma"
+   ],
+   "location.lot": [
+    "1A"
+   ],
+   "location.blk": [
+    "9"
+   ],
+   "location.subdivision": [
+    "Roswell Park Fruit"
+   ],
+   "sealing.material": [
+    "Bentonite"
+   ],
+   "sealing.to_ft": [
+    "18"
+   ],
+   "sealing.shoe_depths": [
+    "40"
+   ],
+   "sealing.how_tested": [
+    "Air"
+   ],
+   "casing_liner.0.diameter": [
+    "6"
+   ],
+   "casing_liner.0.from_ft": [
+    "2"
+   ],
+   "casing_liner.0.to_ft": [
+    "40"
+   ],
+   "casing_liner.0.casing_or_liner": [
+    "Casing"
+   ],
+   "casing_liner.0.welded_or_threaded": [
+    "Welded"
+   ],
+   "casing_liner.1.diameter": [
+    "4 1/2"
+   ],
+   "casing_liner.1.from_ft": [
+    "23"
+   ],
+   "casing_liner.1.to_ft": [
+    "63"
+   ],
+   "casing_liner.1.casing_or_liner": [
+    "Liner"
+   ],
+   "casing_liner.1.welded_or_threaded": [
+    "Threaded"
+   ],
+   "perforations_screens.perforation_method": [
+    "Skill Saw"
+   ],
+   "perforations_screens.entries.0.from_ft": [
+    "63"
+   ],
+   "perforations_screens.entries.0.to_ft": [
+    "123"
+   ],
+   "static_water_level_ft": [
+    "20"
+   ],
+   "depth_flow_encountered_ft": [
+    "80-120"
+   ],
+   "well_tests.0.type": [
+    "Air"
+   ],
+   "water_temp": [
+    "56"
+   ],
+   "bottom_hole_temp": [
+    "56"
+   ],
+   "depth_first_water_encountered_ft": [
+    "18"
+   ],
+   "completed_depth_ft": [
+    "123"
+   ],
+   "date_started": [
+    "12/21/2004"
+   ],
+   "date_completed": [
+    "12/21/2004"
+   ],
+   "driller.company_name": [
+    "Treasure Valley Drilling"
+   ],
+   "driller.firm_no": [
+    "560"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     18
+    ],
+    [
+     18,
+     24
+    ],
+    [
+     24,
+     35
+    ],
+    [
+     35,
+     80
+    ],
+    [
+     80,
+     120
+    ],
+    [
+     120,
+     123
+    ]
+   ],
+   "water": [
+    null,
+    "Y",
+    "Y",
+    "Y",
+    null,
+    "Y",
+    null
+   ]
+  }
+ },
+ "397950_page_1.jpg": {
+  "scalars": {
+   "well_id_no": [
+    "827334"
+   ],
+   "well_tag_no": [
+    "D 0038549"
+   ],
+   "owner.name": [
+    "KINZLER BUILDERS"
+   ],
+   "owner.city": [
+    "NAMPA",
+    "Nampa"
+   ],
+   "owner.zip": [
+    "83686"
+   ],
+   "location.twp": [
+    "3"
+   ],
+   "location.rge": [
+    "3"
+   ],
+   "location.rge_dir": [
+    "W",
+    "West"
+   ],
+   "location.sec": [
+    "16"
+   ],
+   "location.county": [
+    "Canyon"
+   ],
+   "location.quarter_quarter": [
+    "NE 1/4 SW 1/4"
+   ],
+   "location.gov_lot": [
+    null
+   ],
+   "location.city": [
+    "CALDWELL",
+    "Caldwell"
+   ],
+   "location.well_site_address": [
+    "15593 ECLIPSE DR"
+   ],
+   "sealing.material": [
+    "3/8 Bent",
+    "3/8 Bentonite"
+   ],
+   "sealing.shoe_depths": [
+    "171"
+   ],
+   "casing_liner.0.diameter": [
+    "6"
+   ],
+   "casing_liner.0.from_ft": [
+    "+2"
+   ],
+   "casing_liner.0.to_ft": [
+    "171"
+   ],
+   "casing_liner.0.gauge": [
+    "1/4"
+   ],
+   "casing_liner.0.casing_or_liner": [
+    "Casing"
+   ],
+   "casing_liner.0.welded_or_threaded": [
+    "Welded"
+   ],
+   "static_water_level_ft": [
+    "46"
+   ],
+   "well_tests.0.type": [
+    "Air"
+   ],
+   "water_temp": [
+    "59",
+    "59\u00b0"
+   ],
+   "depth_first_water_encountered_ft": [
+    "52"
+   ],
+   "completed_depth_ft": [
+    "178'",
+    "178"
+   ],
+   "date_started": [
+    "12/21/04"
+   ],
+   "date_completed": [
+    "1/4/05"
+   ],
+   "driller.firm_no": [
+    "483"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     7
+    ],
+    [
+     7,
+     18
+    ],
+    [
+     18,
+     40
+    ],
+    [
+     40,
+     52
+    ],
+    [
+     52,
+     63
+    ],
+    [
+     63,
+     64
+    ],
+    [
+     64,
+     69
+    ],
+    [
+     69,
+     78
+    ],
+    [
+     78,
+     80
+    ],
+    [
+     80,
+     105
+    ],
+    [
+     105,
+     128
+    ],
+    [
+     128,
+     130
+    ],
+    [
+     130,
+     142
+    ],
+    [
+     142,
+     168
+    ],
+    [
+     168,
+     172
+    ],
+    [
+     172,
+     178
+    ]
+   ],
+   "water": [
+    "N",
+    "N",
+    "N",
+    "N",
+    "Y",
+    "Y",
+    "N",
+    "N",
+    "N",
+    "Y",
+    "N",
+    "N",
+    "Y",
+    "N",
+    "N",
+    "N",
+    "Y"
+   ]
+  }
+ },
+ "397956_page_1.jpg": {
+  "scalars": {
+   "drilling_permit_no": [
+    "D0038537 MW-1"
+   ],
+   "owner.name": [
+    "Jackson Food Stores #7"
+   ],
+   "owner.city": [
+    "Boise"
+   ],
+   "owner.zip": [
+    "83703"
+   ],
+   "location.twp": [
+    "4"
+   ],
+   "location.rge": [
+    "2"
+   ],
+   "location.rge_dir": [
+    "E",
+    "East"
+   ],
+   "location.sec": [
+    "33"
+   ],
+   "location.county": [
+    "Ada"
+   ],
+   "location.quarter_quarter": [
+    "SW1/4 SE 1/4 SW 1/4",
+    "SW 1/4 SE 1/4 SW 1/4"
+   ],
+   "use.0": [
+    "Monitor"
+   ],
+   "casing_liner.0.diameter": [
+    "2\"",
+    "2"
+   ],
+   "casing_liner.0.from_ft": [
+    "-3\"",
+    "-3"
+   ],
+   "casing_liner.0.to_ft": [
+    "5'",
+    "5"
+   ],
+   "casing_liner.0.gauge": [
+    "40"
+   ],
+   "casing_liner.0.material": [
+    "PVC"
+   ],
+   "perforations_screens.screen_type": [
+    "johnson",
+    "Johnson"
+   ],
+   "perforations_screens.entries.0.from_ft": [
+    "5'",
+    "5"
+   ],
+   "perforations_screens.entries.0.to_ft": [
+    "21'",
+    "21"
+   ],
+   "static_water_level_ft": [
+    "11"
+   ],
+   "completed_depth_ft": [
+    "21"
+   ],
+   "date_started": [
+    "12-20-04"
+   ],
+   "date_completed": [
+    "12-20-04"
+   ],
+   "driller.company_name": [
+    "Hiddleston & Son, Inc.",
+    "Hiddleston & Son Inc"
+   ],
+   "driller.firm_no": [
+    "35"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     5,
+     21
+    ]
+   ],
+   "water": [
+    "N",
+    "N",
+    "Y"
+   ]
+  }
+ },
+ "428851_page_1.jpg": {
+  "scalars": {
+   "well_tag_no": [
+    "D 0058934"
+   ],
+   "owner.name": [
+    "Dan Rule"
+   ],
+   "owner.city": [
+    "Wilder"
+   ],
+   "owner.zip": [
+    "83687"
+   ],
+   "location.twp": [
+    "4"
+   ],
+   "location.rge": [
+    "5"
+   ],
+   "location.rge_dir": [
+    "W",
+    "West"
+   ],
+   "location.sec": [
+    "19"
+   ],
+   "location.county": [
+    "Canyon"
+   ],
+   "location.quarter_quarter": [
+    "NE 1/4 NE 1/4"
+   ],
+   "sealing.material": [
+    "Bentonite"
+   ],
+   "sealing.to_ft": [
+    "41"
+   ],
+   "sealing.shoe_depths": [
+    "72'",
+    "72"
+   ],
+   "casing_liner.0.diameter": [
+    "6\"",
+    "6"
+   ],
+   "casing_liner.0.from_ft": [
+    "+2"
+   ],
+   "casing_liner.0.to_ft": [
+    "72"
+   ],
+   "casing_liner.0.casing_or_liner": [
+    "Casing"
+   ],
+   "casing_liner.0.welded_or_threaded": [
+    "Welded"
+   ],
+   "casing_liner.1.diameter": [
+    "4.5\"",
+    "4.5"
+   ],
+   "casing_liner.1.from_ft": [
+    "51"
+   ],
+   "casing_liner.1.to_ft": [
+    "71"
+   ],
+   "casing_liner.1.casing_or_liner": [
+    "Liner"
+   ],
+   "casing_liner.1.welded_or_threaded": [
+    "Threaded"
+   ],
+   "perforations_screens.entries.0.from_ft": [
+    "71'",
+    "71"
+   ],
+   "perforations_screens.entries.0.to_ft": [
+    "111'",
+    "111"
+   ],
+   "perforations_screens.entries.0.slot_size": [
+    ".020"
+   ],
+   "static_water_level_ft": [
+    "54'",
+    "54"
+   ],
+   "depth_first_water_encountered_ft": [
+    "25'",
+    "25"
+   ],
+   "well_tests.0.type": [
+    "Air"
+   ],
+   "well_tests.0.yield_gpm": [
+    "20 GPM",
+    "20"
+   ],
+   "well_tests.0.drawdown_ft": [
+    "44'",
+    "44"
+   ],
+   "completed_depth_ft": [
+    "111'",
+    "111"
+   ],
+   "date_started": [
+    "Jul 13, 2010"
+   ],
+   "date_completed": [
+    "Jul 14, 2010"
+   ],
+   "driller.company_name": [
+    "Adamson Pump & Drilling",
+    "Adamson Pump & Drilling Co."
+   ],
+   "driller.firm_no": [
+    "457"
+   ],
+   "driller.principal_driller": [
+    "Dave Adamson"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     24
+    ],
+    [
+     24,
+     33
+    ],
+    [
+     33,
+     41
+    ],
+    [
+     41,
+     64
+    ],
+    [
+     64,
+     74
+    ],
+    [
+     74,
+     111
+    ]
+   ],
+   "water": [
+    "N",
+    "Y",
+    "N",
+    "Y",
+    "N",
+    "Y"
+   ]
+  }
+ },
+ "486318_page_1.jpg": {
+  "scalars": {
+   "well_tag_no": [
+    "D0110416",
+    "D 0110416"
+   ],
+   "drilling_permit_no": [
+    "922781"
+   ],
+   "owner.name": [
+    "Tradition Custom Homes"
+   ],
+   "owner.city": [
+    "Middleton"
+   ],
+   "owner.zip": [
+    "83644"
+   ],
+   "location.twp": [
+    "05",
+    "5"
+   ],
+   "location.rge": [
+    "02",
+    "2"
+   ],
+   "location.rge_dir": [
+    "W",
+    "West"
+   ],
+   "location.sec": [
+    "34"
+   ],
+   "location.county": [
+    "Canyon",
+    "Canyon County"
+   ],
+   "location.quarter_quarter": [
+    "SW 1/4 SW 1/4"
+   ],
+   "type_of_work.0": [
+    "New well"
+   ],
+   "sealing.material": [
+    "3/8 Bentonite"
+   ],
+   "sealing.from_ft": [
+    "0"
+   ],
+   "sealing.to_ft": [
+    "52"
+   ],
+   "sealing.weight_volume": [
+    "1350 LBS",
+    "1350"
+   ],
+   "casing_liner.0.diameter": [
+    "6\"",
+    "6"
+   ],
+   "casing_liner.0.from_ft": [
+    "+2"
+   ],
+   "casing_liner.0.to_ft": [
+    "224"
+   ],
+   "casing_liner.1.diameter": [
+    "5\"",
+    "5"
+   ],
+   "casing_liner.1.from_ft": [
+    "218"
+   ],
+   "casing_liner.1.to_ft": [
+    "226"
+   ],
+   "perforations_screens.entries.0.from_ft": [
+    "226"
+   ],
+   "perforations_screens.entries.0.to_ft": [
+    "231"
+   ],
+   "perforations_screens.entries.0.slot_size": [
+    ".016"
+   ],
+   "perforations_screens.entries.0.material": [
+    "Stainless"
+   ],
+   "static_water_level_ft": [
+    "111"
+   ],
+   "depth_first_water_encountered_ft": [
+    "52"
+   ],
+   "completed_depth_ft": [
+    "231"
+   ],
+   "date_started": [
+    "10/31/2025"
+   ],
+   "date_completed": [
+    "11/4/2025"
+   ],
+   "driller.company_name": [
+    "Dennis Phipps Well Drilling Inc.",
+    "Dennis Phipps Well Drilling Inc"
+   ],
+   "driller.firm_no": [
+    "332"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     9
+    ],
+    [
+     9,
+     11
+    ],
+    [
+     11,
+     52
+    ],
+    [
+     52,
+     58
+    ],
+    [
+     58,
+     73
+    ],
+    [
+     73,
+     84
+    ],
+    [
+     84,
+     88
+    ],
+    [
+     88,
+     113
+    ],
+    [
+     113,
+     117
+    ],
+    [
+     117,
+     153
+    ],
+    [
+     153,
+     166
+    ],
+    [
+     166,
+     169
+    ],
+    [
+     169,
+     178
+    ],
+    [
+     178,
+     194
+    ],
+    [
+     194,
+     200
+    ],
+    [
+     200,
+     220
+    ],
+    [
+     220,
+     224
+    ],
+    [
+     224,
+     231
+    ]
+   ],
+   "water": [
+    "N",
+    "N",
+    "N",
+    "N",
+    "Y",
+    "N",
+    "N",
+    "N",
+    "Y",
+    "N",
+    "Y",
+    "Y",
+    "N",
+    "Y",
+    "Y",
+    "Y",
+    "N",
+    "N",
+    "Y"
+   ]
+  }
+ },
+ "486428_page_1.jpg": {
+  "scalars": {
+   "well_tag_no": [
+    "D 0108294"
+   ],
+   "drilling_permit_no": [
+    "922894"
+   ],
+   "water_right_no": [
+    "63-35704"
+   ],
+   "owner.name": [
+    "Devon Penner"
+   ],
+   "owner.city": [
+    "Middleton"
+   ],
+   "owner.zip": [
+    "83644"
+   ],
+   "location.twp": [
+    "05",
+    "5"
+   ],
+   "location.rge": [
+    "03",
+    "3"
+   ],
+   "location.rge_dir": [
+    "W",
+    "West"
+   ],
+   "location.sec": [
+    "10"
+   ],
+   "location.city": [
+    "Caldwell"
+   ],
+   "sealing.from_ft": [
+    "0"
+   ],
+   "sealing.shoe_depths": [
+    "259"
+   ],
+   "casing_liner.0.diameter": [
+    "8\"",
+    "8"
+   ],
+   "casing_liner.0.from_ft": [
+    "+2"
+   ],
+   "casing_liner.0.to_ft": [
+    "259"
+   ],
+   "casing_liner.0.casing_or_liner": [
+    "Casing"
+   ],
+   "casing_liner.0.welded_or_threaded": [
+    "Welded"
+   ],
+   "perforations_screens.entries.0.from_ft": [
+    "271"
+   ],
+   "perforations_screens.entries.0.to_ft": [
+    "281"
+   ],
+   "perforations_screens.entries.0.slot_size": [
+    ".025"
+   ],
+   "perforations_screens.entries.1.from_ft": [
+    "285"
+   ],
+   "perforations_screens.entries.1.to_ft": [
+    "295"
+   ],
+   "perforations_screens.entries.1.slot_size": [
+    ".018"
+   ],
+   "static_water_level_ft": [
+    "125"
+   ],
+   "depth_first_water_encountered_ft": [
+    "125"
+   ],
+   "well_tests.0.type": [
+    "Pump"
+   ],
+   "completed_depth_ft": [
+    "295"
+   ],
+   "date_started": [
+    "11/12/25"
+   ],
+   "date_completed": [
+    "12/2/25"
+   ],
+   "driller.company_name": [
+    "McLeran Well Drilling, LLC",
+    "McLeran Well Drilling LLC"
+   ],
+   "driller.firm_no": [
+    "641"
+   ]
+  },
+  "litho": {
+   "intervals": [
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     14
+    ],
+    [
+     14,
+     19
+    ],
+    [
+     19,
+     41
+    ],
+    [
+     41,
+     51
+    ],
+    [
+     51,
+     54
+    ],
+    [
+     54,
+     105
+    ],
+    [
+     105,
+     125
+    ],
+    [
+     125,
+     172
+    ],
+    [
+     172,
+     196
+    ],
+    [
+     196,
+     202
+    ],
+    [
+     202,
+     223
+    ],
+    [
+     223,
+     229
+    ],
+    [
+     229,
+     235
+    ],
+    [
+     235,
+     241
+    ],
+    [
+     241,
+     247
+    ],
+    [
+     247,
+     266
+    ],
+    [
+     266,
+     280
+    ],
+    [
+     280,
+     283
+    ],
+    [
+     283,
+     294
+    ],
+    [
+     294,
+     295
+    ]
+   ],
+   "water": [
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "Y",
+    "Y",
+    "N",
+    "N",
+    "Y",
+    "Y",
+    "N",
+    "Y",
+    "N",
+    "Y",
+    "N",
+    "Y",
+    "N"
+   ]
+  }
+ }
+}
